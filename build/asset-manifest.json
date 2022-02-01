@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/login-with-metamask/build/static/js/main.6e4d37c2.js",
+    "main.js": "/login-with-metamask/build/static/js/main.00746d30.js",
     "index.html": "/login-with-metamask/build/index.html",
-    "main.6e4d37c2.js.map": "/login-with-metamask/build/static/js/main.6e4d37c2.js.map"
+    "main.00746d30.js.map": "/login-with-metamask/build/static/js/main.00746d30.js.map"
   },
   "entrypoints": [
-    "static/js/main.6e4d37c2.js"
+    "static/js/main.00746d30.js"
   ]
 }
