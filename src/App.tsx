@@ -10,7 +10,7 @@ export const App = () => {
 
   return (
     <div>
-      <div>Login with Metamask</div>
+      <div>Login with Metamask(ETH or Polygon Mumbai)</div>
       <Connect />
       {library === undefined ? null : <Sign {...{ library }} />}
     </div>
