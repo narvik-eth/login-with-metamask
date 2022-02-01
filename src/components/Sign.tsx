@@ -45,6 +45,7 @@ export const Sign: React.FC<{ library: Web3Provider }> = ({ library }) => {
       <div>sign: {sign}</div>
       <div>signed address: {signedAddress}</div>
       <hr />
+      <div>You need to start the server. For local use.</div>
       <button onClick={handleClaimJWT}>Claim JWT</button>
       <div>JWT: {jwt}</div>
       <div>
